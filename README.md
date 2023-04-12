@@ -39,3 +39,7 @@ Acesse o link que irá aparecer no seu terminal
 
 - [NodeJS](https://nodejs.org/)
 - [ReactJs](https://reactjs.org/)
+
+##  Considerações
+
+O front-end para mim sempre foi um desafio, pois tenho mais conhecimento no back-end. Sempre que faço algum projeto novo tento fazer da melhor forma. Por se tratar de um desafio "simples", implementei nele coisas que eu já conhecia. Estou bem feliz com o resultado, e com o meu progresso em algo que eu achava dificil.

@@ -1,0 +1,48 @@
+.user-container {
+  display: flex;
+  width: 600px;
+  margin-bottom: 1rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  border: none;
+}
+
+.container-picture {
+  width: 200px;
+}
+
+.picture {
+  width: 100%;
+  height: 100%;
+}
+
+.container-info {
+  width: 100%;
+  background-color: #f8f9fa;
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+  padding: 1rem;
+  overflow: hidden;
+}
+
+.name {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.contact,
+.gender {
+  color: #6c757d;
+  font-size: 1rem;
+}
+
+@media (max-width: 500px) {
+  .user-container {
+    width: 300px;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+
+  .container-picture {
+    width: 100%;
+  }
+}

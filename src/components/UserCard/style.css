@@ -32,6 +32,7 @@
 .gender {
   color: #6c757d;
   font-size: 1rem;
+  margin-top: 8px;
 }
 
 @media (max-width: 500px) {
